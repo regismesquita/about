@@ -49,7 +49,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     scope = [
         "Lead Developer at [Millbody](https://millbody.com)"
       ]
-    biography = """I've worked in several kinds of business , from General Attorney office to Industrial Automation , going through Software Consulting Firms, a publicity agency , aerial survey , political party , NGO and others minor clients."""
+    biography = """I've worked in several business , from General Attorney office to Industrial Automation , going through Software Consulting Firms, publicity agency , aerial survey , political party , NGO and others."""
 
   # Contact form settings
 
