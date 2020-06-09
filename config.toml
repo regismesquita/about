@@ -43,7 +43,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # If name is not set, author is used
     name = "RDSM"
     # Avatars can be written to images/avatars/
-    avatar = "20200609.jpg"
+    avatar = "20200609x300.jpg"
     position = "Lead Developer"
     livesIn = "[São Paulo, Brazil](https://goo.gl/maps/58spcNJXBwYTcoX1A)"
     scope = [
