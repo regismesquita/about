@@ -44,12 +44,12 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     name = "RDSM"
     # Avatars can be written to images/avatars/
     avatar = "20200609x300.jpg"
-    position = "Lead Developer"
+    position = "Backend API Engineer"
     livesIn = "[São Paulo, Brazil](https://goo.gl/maps/58spcNJXBwYTcoX1A)"
     scope = [
-        "Lead Developer at [Millbody](https://millbody.com)"
+        "Backend API Engineer at [Telnyx](https://telnyx.com)"
       ]
-    biography = """ I've worked in several business , from General Attorney office to Industrial Automation , going through Software Consulting Firms, publicity agency , aerial survey , political party , NGO and others.  Working in many different fields , from technical to management , gave me a broader vision which allows me to not only to find solutions but also helping my team reach it."""
+    biography = """ I've worked in several industries , from the General Attorney office to Industrial Automation , going through Telecommunications, Software Consulting Firms, publicity agency , aerial survey , political party , NGO and others.  Working in different fields , from technical to management , gave me a broader vision allowing me to not only to find solutions but also help my team reach our goals."""
 
   # Contact form settings
 
@@ -81,8 +81,8 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     emailPlaceholder = "Email"
     messagePlaceholder = "Message"
     buttonText = "Send it"
-    success = "Thank you for contacting us."
-    error = "Message could not be send. Please contact us at "
+    success = "Thank you for contacting me! :)"
+    error = "Message could not be send. Please contact me @das_rm on Telegram"
 
     # Google invisible captcha
     #[params.contact.captcha]
@@ -100,12 +100,6 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
 
   # Social settings
   # You may change these with your social links or add others
-
-  [[params.social]]
-    title = "Twitter"
-    icon = "fa-twitter"
-    link = "https://twitter.com/regismesquita"
-    target = "_blank"
 
   [[params.social]]
     title = "Github"
