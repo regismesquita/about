@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://rdsm.dev" #without ending slash
 languageCode = "en-us"
-title = "About RDSM"
+title = "RDSM"
 theme = "hugo-identity-theme"
 themesDir = "themes"
 
