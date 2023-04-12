@@ -1,3 +1,4 @@
+# Testing key
 # Site settings
 baseurl = "https://rdsm.dev" #without ending slash
 languageCode = "en-us"
