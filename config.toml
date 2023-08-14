@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://rdsm.dev" #without ending slash
+baseurl = "https://about.rdsm.dev" #without ending slash
 languageCode = "en-us"
 title = "RDSM"
 theme = "hugo-identity-theme"
@@ -45,11 +45,11 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # Avatars can be written to images/avatars/
     avatar = "20200609x300.jpg"
     position = "Backend API Engineer"
-    livesIn = "[São Paulo, Brazil](https://goo.gl/maps/58spcNJXBwYTcoX1A)"
+    livesIn = "[Dublin, Ireland](https://www.google.com/maps/place/Dublin)"
     scope = [
         "Backend API Engineer at [Telnyx](https://telnyx.com)"
       ]
-    biography = """ I've worked in several industries , from the General Attorney office to Industrial Automation , going through Telecommunications, Software Consulting Firms, publicity agency , aerial survey , political party , NGO and others.  Working in different fields , from technical to management , gave me a broader vision allowing me to not only to find solutions but also help my team reach our goals."""
+    biography = """  I have had the privilege of working in various industries, ranging from the State General Attorney's office to Industrial Automation, Telecommunications, Software Consulting Firms, publicity agencies, aerial survey companies, political parties, NGOs, and more. With a diverse background in both technical and managerial roles, my experiences have provided me with a well-rounded perspective, allowing me not only to find effective solutions but also to guide my team towards accomplishing our goals."""
 
   # Contact form settings
 
